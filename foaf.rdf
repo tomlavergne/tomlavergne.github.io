@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <foaf:Person rdf:about="">
+    <foaf:name>Tom Lavergne</foaf:name>
+    <foaf:nick>tomlavergne</foaf:nick>
+    <foaf:homepage rdf:resource="https://www.polygonagence.fr/"/>
+    <foaf:mbox rdf:resource="tlavergne@etudiant.univ-lr.fr"/>
+    <foaf:depiction rdf:resource="https://www.polygonagence.fr/_nuxt/home-vertical.CqCOQ8ww.webp"/>
+  </foaf:Person>
+
+</rdf:RDF>
