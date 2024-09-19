@@ -7,9 +7,9 @@
   <foaf:Person rdf:about="">
     <foaf:name>Tom Lavergne</foaf:name>
     <foaf:nick>tomlavergne</foaf:nick>
-    <foaf:homepage rdf:resource="https://www.polygonagence.fr/"/>
+    <foaf:homepage rdf:resource="https://tomlavergne.github.io/"/>
     <foaf:mbox rdf:resource="tlavergne@etudiant.univ-lr.fr"/>
-    <foaf:depiction rdf:resource="#"/>
+    <foaf:depiction rdf:resource="https://cdn.futura-sciences.com/sources/images/dossier/773/01-intro-773.jpg"/>
     
     <!-- Ajout des références aux connaissances -->
     <foaf:knows>
