@@ -7,9 +7,18 @@
   <foaf:Person rdf:about="">
     <foaf:name>Tom Lavergne</foaf:name>
     <foaf:nick>tomlavergne</foaf:nick>
-    <foaf:homepage rdf:resource="https://tomlavergne.github.io/"/>
+    <foaf:homepage rdf:resource="https://www.polygonagence.fr/"/>
     <foaf:mbox rdf:resource="tlavergne@etudiant.univ-lr.fr"/>
     <foaf:depiction rdf:resource="https://www.polygonagence.fr/_nuxt/home-vertical.CqCOQ8ww.webp"/>
+    
+    <!-- Ajout des références aux connaissances -->
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:name>Ami 1</foaf:name>
+        <foaf:homepage rdf:resource="https://ricogac.github.io/Rico/"/>
+      </foaf:Person>
+    </foaf:knows>
+
   </foaf:Person>
 
 </rdf:RDF>
